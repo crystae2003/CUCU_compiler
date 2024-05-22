@@ -1,0 +1,66 @@
+constant :2
+constant :3
+multiplication :*
+constant :5
+addition :+
+expression
+int a assignment statement
+identifier : a
+constant :1
+addition :+
+int b assignment statement
+Arguments : s
+constant :0
+int assign statement
+identifier : i
+array/string element 
+string/array element identifier 
+identifier : i
+constant :1
+addition :+
+assignment of i variable to expression 
+while loop
+
+identifier : i
+return statement
+
+Function Body ends 
+
+int function ends: Function name:cucu_strlen
+
+constant :2
+constant :3
+multiplication :*
+constant :5
+addition :+
+expression
+int a assignment statement
+identifier : a
+constant :1
+addition :+
+int b assignment statement
+Arguments : s
+constant :0
+int assign statement
+identifier : i
+array/string element 
+string/array element identifier 
+identifier : i
+constant :1
+addition :+
+assignment of i variable to expression 
+while loop
+
+identifier : i
+return statement
+
+Function Body ends 
+
+int function ends: Function name:cucu_strlen
+
+
+
+
+
+
+
