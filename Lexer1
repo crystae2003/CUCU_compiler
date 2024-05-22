@@ -1,0 +1,118 @@
+Data Type : INT
+Identifier : a
+Assignment : =
+Left parenthesis: ( 
+Constant: 2
+Operator : *
+Constant: 3
+Operator : +
+Constant: 5
+Right parenthesis: )
+SEMICOLON : ;
+
+Data Type : INT
+Identifier : b
+Assignment : =
+Identifier : a
+Operator : +
+Constant: 1
+SEMICOLON : ;
+
+Data Type : INT
+Identifier : cucu_strlen
+Left parenthesis: ( 
+Data Type : Char pointer
+Identifier : s
+Right parenthesis: )
+Left curly braces: { 
+
+Data Type : INT
+Identifier : i
+Assignment : =
+Constant: 0
+SEMICOLON : ;
+
+Loop : while loop
+Left parenthesis: ( 
+Identifier : s
+Left Square bracket: [
+Identifier : i
+Right Square bracket: ]
+Right parenthesis: )
+Left curly braces: { 
+
+Identifier : i
+Assignment : =
+Identifier : i
+Operator : +
+Constant: 1
+SEMICOLON : ;
+
+Right curly braces: }
+
+Control Statement: return 
+Identifier : i
+SEMICOLON : ;
+
+Right curly braces: }
+
+
+Data Type : INT
+Identifier : a
+Assignment : =
+Left parenthesis: ( 
+Constant: 2
+Operator : *
+Constant: 3
+Operator : +
+Constant: 5
+Right parenthesis: )
+SEMICOLON : ;
+
+Data Type : INT
+Identifier : b
+Assignment : =
+Identifier : a
+Operator : +
+Constant: 1
+SEMICOLON : ;
+
+Data Type : INT
+Identifier : cucu_strlen
+Left parenthesis: ( 
+Data Type : Char pointer
+Identifier : s
+Right parenthesis: )
+Left curly braces: { 
+
+Data Type : INT
+Identifier : i
+Assignment : =
+Constant: 0
+SEMICOLON : ;
+
+Loop : while loop
+Left parenthesis: ( 
+Identifier : s
+Left Square bracket: [
+Identifier : i
+Right Square bracket: ]
+Right parenthesis: )
+Left curly braces: { 
+
+Identifier : i
+Assignment : =
+Identifier : i
+Operator : +
+Constant: 1
+SEMICOLON : ;
+
+Right curly braces: }
+
+Control Statement: return 
+Identifier : i
+SEMICOLON : ;
+
+Right curly braces: }
+
+
