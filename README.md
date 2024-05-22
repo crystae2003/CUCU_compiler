@@ -3,7 +3,7 @@
 files:  cucu.l, cucu.y, lex.yy.c, Lexer1.txt, Parser1.txt,  Sample1.cu, y.tab.h, y.tab.c, README.txt
 
 The Following Instructions Should Be Followed While Running The Program :
-    A. Open the terminal in the directory 2022CSB1128 and Enter the following commands to run the program :
+    A. Enter the following commands to run the program :
         1. lex cucu.l
         2. yacc -d cucu.y
         3. gcc lex.yy.c y.tab.c
